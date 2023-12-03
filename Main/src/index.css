@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Inter";
+    src: url("./assets/fonts/Inter/Inter-Regular.ttf") format("woff");
+}
+
+@font-face {
+    font-family: "Karla";
+    src: url("./assets/fonts/Karla/Karla-Bold.ttf") format("woff");
+}
+
+body {
+    background: #000;
+    color: #fff;
+    font-family: "Inter", sans-serif;
+}
+
+.font-Karla {
+    font-family: "Karla", sans-serif;
+}

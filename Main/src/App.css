@@ -1,0 +1,8 @@
+.bg-left-to-right-gradient {
+    background-image: linear-gradient(to left, rgba(11, 11, 11, 1), rgba(11, 11, 11, 0.2));
+    backdrop-filter: 10px;
+}
+
+.bg-right-to-left-gradient {
+    background-image: linear-gradient(to right, rgba(11, 11, 11, 1), rgba(11, 11, 11, 0.2));
+}
